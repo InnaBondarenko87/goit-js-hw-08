@@ -34,12 +34,7 @@ img {
 }
 
 .modal-img {
+  /* padding-top: 20px; */
   position: absolute;
   top: -110px;
 }
-
-/* .gallery-image:hover {
-  cursor: url("../img/bxs_hand-down.png"), pointer;
-  transform: scale(1.04);
-  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
-} */
